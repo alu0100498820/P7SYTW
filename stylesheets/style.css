@@ -1,0 +1,28 @@
+#h1 {
+  text-align: center;
+}
+
+#n1 {
+  text-align: center;
+}
+
+#s1 {
+  text-align: center;
+}
+
+#f1 {
+  text-align: center;
+}
+
+#lista {
+  text-align: left;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
