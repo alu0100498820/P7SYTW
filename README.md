@@ -34,5 +34,5 @@
 
 ---
 
-> [*Despliegue de la Aplicación en el <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Heroku_logo.png/220px-Heroku_logo.png"> *](http://10.6.128.95:8080/ "*Despliegue de la Aplicación en el Heroku*")
+> [*Despliegue de la Aplicación en * <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Heroku_logo.png/220px-Heroku_logo.png" width="80" height="30">](http://10.6.128.95:8080/ "*Despliegue de la Aplicación en el Heroku*")
 
