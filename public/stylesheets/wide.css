@@ -1,5 +1,5 @@
 /*Reglas CSS adicionales para pantalla ancha*/
-body { background: #999; }
+body { background: #AFAFAF; }
 
 #page-wrap:after { content: "Wide Layout"; }
 
