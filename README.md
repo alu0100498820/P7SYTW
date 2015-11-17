@@ -22,7 +22,7 @@
 
 
 
-> [*Enlace a la página personal*](http://alu0100498820.github.io "*Enlace a la página personal*")
+> <span style="color:#3366BB">*Enlace a la página personal*</span> [<img src="http://fielinks.com/sites/default/files/styles/max/public/images/huevo-tux.png" width="50" height="50">](http://alu0100498820.github.io "*Enlace a la página personal*")
 
 ---
 
