@@ -6,6 +6,6 @@ html { background-color: #ffff99; }
 #imag1{
     background-image: url(http://cdn.gobankingrates.com/wp-content/uploads/start-quiz.png);
 }
-section { float: none; width: 85%; height: 300px; }
+section { float: none; height: 300px; }
 
 /*footer { clear: both; display: block; }*/
