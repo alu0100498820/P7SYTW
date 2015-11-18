@@ -5,7 +5,7 @@ html { background-color: #ffff99; }
 /*nav span { margin: 0px 100px 0px 0px; }*/
 section { float: none; height: 300px; }
 
-footer { background-image:url(http://blogs.osc-ib.com/wp-content/uploads/2014/11/1-Engage-your-brain-1.png );
-         width: 128px; 
-         height: 200px;
-}
+#img1 {visibility:visible;}
+#text1 {visibility:hidden;}
+
+/*footer { clear: both; display: block; }*/

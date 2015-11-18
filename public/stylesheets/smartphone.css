@@ -7,4 +7,5 @@ header h2, section h3 { display: none; }
 #tex1 { display: none; }
 body { font-size: xx-large; }
 footer, input { font-size: large; }
-#img1 {display:none;}
+
+#img1 {visibility:hidden;}
