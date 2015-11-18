@@ -4,7 +4,7 @@ body {
 }
 
 #page-wrap { margin: 2% auto; color: black; }
-#imag2 {display:none;}
 section > div { padding: 20px; }
 header, nav, section, footer {text-align: center; }
 nav span { margin: 0px 10px 0px 0px; }
+#img1 {display:none;}
