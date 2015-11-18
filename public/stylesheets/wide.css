@@ -1,7 +1,7 @@
 /*Reglas CSS adicionales para pantalla ancha*/
-body { background: #AFAFAF ; }
+body { background: white ; }
 
-#page-wrap:after { content: "Wide Layout"; }
+/*#page-wrap:after { content: "Wide Layout"; }*/
 
 /*nav span { margin: 0px 100px 0px 0px; }*/
 #n1 {float:center;}
