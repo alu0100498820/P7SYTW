@@ -1,10 +1,6 @@
 * { margin: 0; padding: 0; }
 
-section > div { padding: 20px; }
-header, nav, section, footer {text-align: center; }
-nav span { margin: 0px 10px 0px 0px; }
-
-/*#h1 {
+#h1 {
   text-align: center;
 }
 
@@ -18,7 +14,7 @@ nav span { margin: 0px 10px 0px 0px; }
 
 #f1 {
   text-align: center;
-}*/
+}
 
 #lista {
   text-align: left;
